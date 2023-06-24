@@ -1,0 +1,34 @@
+*{
+     box-sizing: border-box;
+     padding: 0;
+     margin: 0;
+}
+
+body{
+
+     font-family : 'Times New Roman',  serif;
+     font-size: 30px;
+     line-height: 2.5;
+     color :black;
+     background :whitesmoke;
+}
+
+.Container{
+
+     max-height: 800px;
+     margin : 100px auto;
+     padding: 10px;
+     display: grid;
+     grid-template-columns: repeat(3,1fr);
+     gap:20px;
+
+}
+.Item{
+
+     background :rgb(107, 107, 143);
+     padding: 20px;
+     font-size: 20px;
+     border: azure 2px solid;
+
+
+}
