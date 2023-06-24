@@ -1,2 +1,2 @@
 
-DOM : - Document Object Model aka how the way we modify HTML using JavaScript
+DOM : - Document Object Model aka how the way we modify website using JavaScript
